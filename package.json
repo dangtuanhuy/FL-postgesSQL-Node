@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-express-sequelizejs-postgresql",
+  "version": "1.0.0",
+  "description": "nodejs-express-sequelizejs-postgresql",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJs-Express-RestAPIs-SequelizeJs-CRUD-PostgreSQL"
+  ],
+  "author": "JSA",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "pg": "^7.11.0",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^4.44.0"
+  }
+}
